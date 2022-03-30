@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+#sub {
+     display: block;
+     width: 100%;
+     border: 1px solid #ddd;
+     padding: 10px;
+     border-radius: 5px;
+     color: #333
+ }
+
+ #sub:focus {
+     outline: none
+ }
+
+ body{
+     background-color: rgba(209, 235, 252, 0.925);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .con{
+     background-color: rgba(250, 209, 194, 0.863);
+ }
+
